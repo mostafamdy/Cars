@@ -7,3 +7,7 @@ the second algo is colorV2.py we use deep nerual network to classifiy car images
 you just need to download model weights from here :
 
 https://drive.google.com/file/d/1ci5CeRwA5jpi8GK9llL8a5ytja5hr35l/view?usp=sharing
+
+here you can find code for training  :
+
+https://colab.research.google.com/drive/14MW9h2oMf8UZZwHbwNUcQ-SOugKJNL7P?usp=sharing
