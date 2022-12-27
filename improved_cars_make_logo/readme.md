@@ -7,7 +7,9 @@ How it works
   3- classifiy logo and print the result
 
 notes
+
   1- this model can classifiy this logos
+  
       ['acura','audi', 'bmw','buick','daewoo','eagle','fiat','ford','honda','isuzu',
        'jaguar','jeep','mercury','mitsubishi','saab','subaru','toyota','volvo']
 
