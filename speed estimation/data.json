@@ -1,0 +1,12 @@
+{
+    "start_point": [
+        636,
+        780
+    ],
+    "end_point": [
+        938,
+        920
+    ],
+    "distance": 1.5,
+    "distance_threshold": 50
+}
