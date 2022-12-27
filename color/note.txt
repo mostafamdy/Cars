@@ -1,0 +1,7 @@
+How it works 
+  1- this model detect most frequent color from image using clustering algorithm (Kmeans)
+  2- after that take RGB value and search for nearst value in colors.csv 
+
+notes
+  1-"we don't use colors.csv in training" so if you want to add or remove color from colors.csv just do it
+  2- this will be applied in car cropped images, but we are now testing it in simple images to make testing easier
