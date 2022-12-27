@@ -1,0 +1,18 @@
+How it works 
+
+  1- this model detect cars logo 
+  
+  2- crop logo region from image and save ths in crop.jpg file
+  
+  3- classifiy logo and print the result
+
+notes
+  1- this model can classifiy this logos
+      ['acura','audi', 'bmw','buick','daewoo','eagle','fiat','ford','honda','isuzu',
+       'jaguar','jeep','mercury','mitsubishi','saab','subaru','toyota','volvo']
+
+  2- there is img_path varaible at the begining of the code you can change it 
+
+you can get training code from here :
+
+https://colab.research.google.com/drive/11NKGLQhQ0VPJ1MthgjsmJDWl6NOfu8l8?usp=sharing
