@@ -1,2 +1,2 @@
 # Cars
-cars detection  - cars classification by make - logo detection and classification - plate number detection for extracting text rom plate and car speed estimation
+cars detection, classification by make, logo detection, plate number detection, extracting text from plate and car speed estimation
